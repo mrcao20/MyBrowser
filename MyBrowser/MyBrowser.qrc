@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/browser/icon/AppLogoColor.png</file>
+        <file>images/browser/icon/clear_cache.jpg</file>
+        <file>images/browser/icon/dialog-error.png</file>
+        <file>images/browser/icon/edit-clear.png</file>
+        <file>images/browser/icon/go-bottom.png</file>
+        <file>images/browser/icon/go-next.png</file>
+        <file>images/browser/icon/go-previous.png</file>
+        <file>images/browser/icon/pause.jpg</file>
+        <file>images/browser/icon/process-stop.png</file>
+        <file>images/browser/icon/start.jpg</file>
+        <file>images/browser/icon/text-html.png</file>
+        <file>images/browser/icon/view-refresh.png</file>
+    </qresource>
+</RCC>
